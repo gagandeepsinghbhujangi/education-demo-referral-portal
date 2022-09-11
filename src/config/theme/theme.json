@@ -1,0 +1,76 @@
+{
+  "name": "basic",
+  "colors": {
+    "body": "#FFFFFF",
+    "bodyBackground": "#ffff",
+    "hederBackground": "#082032",
+    "primary": "#F7655F",
+    "secondary": "#ff5a53bf",
+    "third": "#4E8BC4",
+    "forth": "#F7655F",
+    "fifth": "#B4B4B4",
+    "text1": "#1A0404",
+    "text2": "#454f5b",
+    "text3": "#4C85BF",
+    "text4": "#ffffff",
+    "text5": "#fff",
+    "text6": "#e5e5e5",
+    "text7": "#464646",
+    "text8": "#d3d3d3",
+    "text9": "#000",
+    "text10": "#707070",
+    "text11": "#ed00000d",
+    "text12": "#d0d0d0",
+    "text13": "#3d3935",
+    "text14": "#3C3C3C",
+    "text15": "#D5D5D5",
+
+    "success": "#27913f",
+    "error": "#dc3545",
+
+    "background2": "#F5FAFF",
+    "background3": "#F7655F"
+  },
+  "font1": "Poppins",
+  "font2": "Poppins-Medium",
+  "font3": "Poppins",
+  "font4": "Poppins, sans-serif",
+
+  "dashboardsCard": {
+    "card1": {
+      "background": "#d3d9ff",
+      "count": "#333B7B",
+      "status": "#333B7B"
+    },
+    "card2": {
+      "background": "#fee2bd",
+      "count": "#503C23",
+      "status": "#fba32b"
+    },
+    "card3": {
+      "background": "#deefff",
+      "count": "#286198",
+      "status": "#deefff"
+    },
+    "card4": {
+      "background": "#d4f1f4",
+      "count": "#005E71",
+      "status": "#9ddfe5"
+    },
+    "card5": {
+      "background": "#f7e6ff",
+      "count": "#333333",
+      "status": "#f7e6ff"
+    },
+    "card6": {
+      "background": "#e7ffdc",
+      "count": "#005E71",
+      "status": "#c9ffb1"
+    }
+  },
+  "table": {
+    "tableHeadBackground": "#F5FAFF",
+    "tableHeadBorder": "#E3F0FD",
+    "tableHeadText": "#0D4074"
+  }
+}

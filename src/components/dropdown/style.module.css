@@ -1,0 +1,15 @@
+.menuItemContainer {
+  display: flex;
+  text-align: center;
+}
+
+.menu {
+  border: 1px solid #bbb;
+  width: 155px;
+}
+
+.menuItems {
+  word-wrap: break-word;
+  padding: 8px 16px;
+  color: var(--black-font-4);
+}
